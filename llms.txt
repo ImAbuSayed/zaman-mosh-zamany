@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Zaman Mosh Zamany |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 01, 2026 |
+| Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/zaman-mosh-zamany/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا سحر الليل خذني إلى طيف الأحلام
+> في قلبي نار شوق تبدد كل الظلام
+> أبحث عن الحب في متاهات الأيام
+> وصدى الشوق يهمس لي في الزحام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
