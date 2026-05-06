@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/zaman-mosh-zamany/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Zaman Mosh Zamany](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
